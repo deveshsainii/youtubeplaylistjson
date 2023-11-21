@@ -1,12 +1,5 @@
-[
-    {
-        "videoId": "PLjVLYmrlmjGfGLShoW0vVX_tcyT8u1Y3E",
-        "title": "Video Title 1",
-        "description": "Description for Video 1"
-    },
-    {
-        "videoId": "NehGIaUIRx0",
-        "title": "Video Title 2",
-        "description": "Description for Video 2"
-    },
-
+{
+  "videoId": "NehGIaUIRx0",
+  "title": "Sample Video Title",
+  "description": "This is a sample video description. You can replace it with your own description."
+}
