@@ -1,11 +1,13 @@
 [
     {
-        "videoId": "jiSaeO2UkNg"
+        "videoId": "NehGIaUIRx0",
+        "title": "Video Title 1",
+        "description": "Description for Video 1"
     },
     {
-        "videoId": "jiSaeO2UkNg"
+        "videoId": "NehGIaUIRx0",
+        "title": "Video Title 2",
+        "description": "Description for Video 2"
     },
-    {
-        "videoId": "jiSaeO2UkNg"
-    }
+    
 ]
