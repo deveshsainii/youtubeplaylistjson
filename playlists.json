@@ -1,17 +1,21 @@
 [
-  {
-    "id": "playlist1",
-    "title": "Playlist One",
-    "subtitle": "Subtitle for Playlist One"
-  },
-  {
-    "id": "playlist2",
-    "title": "Playlist Two",
-    "subtitle": "Subtitle for Playlist Two"
-  },
-  {
-    "id": "playlist3",
-    "title": "Playlist Three",
-    "subtitle": "Subtitle for Playlist Three"
-  }
+    {
+        "id": "playlist1",
+        "thumbnailUrl": "https://img.youtube.com/vi/XjyJzGoxX-c/maxresdefault.jpg",
+        "title": "Playlist One",
+        "subtitle": "Subtitle for Playlist One"
+    },
+    {
+        "id": "playlist2",
+        "thumbnailUrl": "https://img.youtube.com/vi/XjyJzGoxX-c/maxresdefault.jpg",
+        "title": "Playlist Two",
+        "subtitle": "Subtitle for Playlist Two"
+    },
+    {
+        "id": "playlist3",
+        "thumbnailUrl": "https://img.youtube.com/vi/XjyJzGoxX-c/maxresdefault.jpg",
+        "title": "Playlist Three",
+        "subtitle": "Subtitle for Playlist Three"
+    }
+   
 ]
