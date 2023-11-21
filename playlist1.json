@@ -1,15 +1,6 @@
-[
-    {
-        "videoId": "feQhHStBVLE&t"
-    },
-    {
-        "videoId": "f6g7h8i9j0"
-    },
-    {
-        "videoId": "k1l2m3n4o5"
-    },
-    {
-        "videoId": "p6q7r8s9t0"
-    }
-    
-]
+{
+    "videoId": "jiSaeO2UkNg",
+    "title": "Sample Video Title",
+    "thumbnailUrl": "https://i.ytimg.com/vi/jiSaeO2UkNg/maxresdefault.jpg",
+    "description": "Description of the video."
+}
